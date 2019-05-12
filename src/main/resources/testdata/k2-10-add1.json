@@ -1,0 +1,22 @@
+{
+  "classificationResult": 20.0,
+  "userId": 2,
+  "candidates": [
+  ],
+  "star": {
+    "units": {
+      "mass": "M_Sun",
+      "radius": "R_Sun",
+      "rad_err1": "R_Sun",
+      "rad_err2": "R_Sun",
+      "effectiveTemp": "K",
+      "distance": "pc"
+    },
+    "epic": 201577035,
+    "mass": 0.88,
+    "radius": 0.94,
+    "rad_err1": 0.24,
+    "rad_err2": -0.16,
+    "effectiveTemp": 5801.0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "classificationResult": 0.00,
+  "userId": 1,
+  "creationTimeStamp": "30.12.2017 12:00:00",
+  "candidates": [
+  ],
+  "star": {
+    "units": {
+      "mass": "M_Sun",
+      "radius": "R_Sun",
+      "rad_err1": "R_Sun",
+      "rad_err2": "R_Sun",
+      "effectiveTemp": "K",
+      "distance": "pc"
+    },
+    "epic": 210957318,
+    "mass": 0.93,
+    "radius": 0.92,
+    "rad_err1": 0.94,
+    "rad_err2": -0.12,
+    "effectiveTemp": 5567.0
+  }
+}
